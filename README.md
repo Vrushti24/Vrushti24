@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Vrushti24/Vrushti24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 ready to help 
 - 📫 How to reach me: My linkedln profile: https://www.linkedin.com/in/vrushti-shah-3203141b2/
 - 😄 Pronouns: She/Her
--->
