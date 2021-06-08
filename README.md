@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-**Vrushti24/Vrushti24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
+-  I am 3rd year IT student.
 - 🔭 I’m currently working on open source contributions.
 - 🌱 I’m currently learning mobile application development using flutter.
 - 💬 ready to help 
