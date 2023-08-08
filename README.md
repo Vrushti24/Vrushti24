@@ -1,5 +1,5 @@
 ### Hi there 👋
--  I am 3rd year IT student.
+-  Recent Graduate.
 - 🔭 I’m currently working on open source contributions.
 - 🌱 I’m currently learning mobile application development using flutter.
 - 💬 ready to help 
